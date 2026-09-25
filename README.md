@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Sakshi Bhinge 👋
 
-<!--
-**sakshi-bhinge/sakshi-bhinge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student
 
-Here are some ideas to get you started:
+💻 I'm currently learning **Java, Data Structures & Algorithms, and Web Development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I enjoy learning new technologies and building small projects to improve my programming skills.
+
+## 🛠️ Skills
+
+* **Languages:** Java, C++, JavaScript
+* **Web:** HTML, CSS
+* **Database:** MySQL
+* **Concepts:** OOP, DSA, DBMS
+* **Tools:** Git, GitHub, VS Code, Eclipse
+
+## 🚀 Projects
+
+* 📚 **Library Management System** — Java, OOP, ArrayList & File Handling
+* 🎓 **Student Management System** — Java & CRUD Operations
+* 🌐 **Smart Student Attendance System** — HTML, CSS & JavaScript
+
+## 📚 Currently Learning
+
+* Java & DSA
+* Backend Development
+* Web Development
+* Problem Solving
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: [Sakshi Bhinge](https://www.linkedin.com/in/sakshi-bhinge-4740ba291/)
+* 💻 GitHub: [sakshi-bhinge](https://github.com/sakshi-bhinge)
+
+
+---
+
+⭐ Thanks for visiting my profile!
